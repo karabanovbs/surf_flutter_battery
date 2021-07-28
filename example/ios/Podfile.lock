@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - surf_flutter_battery (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - surf_flutter_battery (from `.symlinks/plugins/surf_flutter_battery/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  surf_flutter_battery:
+    :path: ".symlinks/plugins/surf_flutter_battery/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+  surf_flutter_battery: c13fc83c298ffc29ea63cb529c38ed3e8d7a8f37
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.10.1
